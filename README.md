@@ -1,13 +1,3 @@
+![norf-90's Streak](https://github-readme-streak-stats.herokuapp.com/?user=norf-90&theme=dark&hide_border=false)
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=norf-90&theme=dark&hide_border=true&border_radius=30&card_width=300&ring=09EB26&currStreakLabel=EBEBEB)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=norf90&size_weight=0.5&count_weight=0.5&theme=dark&hide_border=true&border_radius=30&card_width=300&ring=09EB26&currStreakLabel=EBEBEB)
-
-
-
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://streak-stats.demolab.com?user=norf-90&theme=dark&hide_border=true&border_radius=30&card_width=300&ring=09EB26&currStreakLabel=EBEBEB" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=norf90&size_weight=0.5&count_weight=0.5/>
-</div>
-
+![norf-90's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=norf-90&theme=dark&show_icons=true&hide_border=false&layout=compact)
